@@ -27,7 +27,7 @@ button:focus {
 
 .header {
   height: 75px;
-  background-color: #222222;
+  background-color: #241f70;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -90,7 +90,7 @@ button:focus {
 
 .product-btn {
   padding: 10px;
-  border: black solid 1px;
+  border: #241f70 solid 1px;
   background-color: white;
   border-radius: 5px;
   /*margin-bottom: 5px */
@@ -99,7 +99,7 @@ button:focus {
 }
 
 .product-btn:hover {
-  background-color: black;
+  background-color: #241f70;
   color: white;
 }
 
@@ -112,7 +112,9 @@ button:focus {
 }
 
 .btn-cart:hover {
-  background-color: black;
+  background-color: #241f70;
   color: white;
+  -webkit-box-shadow: 0 0 5px 4px #ffffff80;
+          box-shadow: 0 0 5px 4px #ffffff80;
 }
 /*# sourceMappingURL=style.css.map */
