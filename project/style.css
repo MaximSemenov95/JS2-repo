@@ -27,7 +27,7 @@ button:focus {
 
 .header {
   height: 75px;
-  background-color: #241f70;
+  background: #241f70;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -65,8 +65,8 @@ button:focus {
 }
 
 .product-item {
-  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-          box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 10px #241f70;
+          box-shadow: 0 0 10px #241f70;
   border-radius: 10px;
 }
 
