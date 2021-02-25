@@ -65,8 +65,8 @@ button:focus {
 }
 
 .product-item {
-  -webkit-box-shadow: 0 0 10px #241f70;
-          box-shadow: 0 0 10px #241f70;
+  -webkit-box-shadow: 0 0 10px #0000009b;
+          box-shadow: 0 0 10px #0000009b;
   border-radius: 10px;
 }
 
@@ -114,7 +114,7 @@ button:focus {
 .btn-cart:hover {
   background-color: #241f70;
   color: white;
-  -webkit-box-shadow: 0 0 5px 4px #ffffff80;
-          box-shadow: 0 0 5px 4px #ffffff80;
+  -webkit-box-shadow: inset 0 0 4px 3px #d0d0d0a6;
+          box-shadow: inset 0 0 4px 3px #d0d0d0a6;
 }
 /*# sourceMappingURL=style.css.map */
