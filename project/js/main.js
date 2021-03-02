@@ -33,12 +33,11 @@ class ProductList {
 
     }
 
+    //сначала сделал на forEach(), потом переделал с reduce()
+    //на forEach визуально легче почему-то было воспринимать, 
+    //долго тупил над тем, что передается и как ткнуть его именно в цену
     //DOM дергать не стал, т.к. пока-что его и дергать-то некуда)
-    goodsTotalCount() {
-        let total = 0
-        this._goods.forEach(product => total += product.price);
-        return total
-    }
+    goodsTotalCount() { return this._goods.reduce((total, { price }) => { return total + price }, 0) }
 
     goodsTotalWithDiscount(discount = 0.05) { return this.goodsTotalCount() * (1 - discount) }
 
@@ -66,9 +65,9 @@ class ProductItem {
 
 const productList = new ProductList();
 
-//в целом, получилась какая-то копипаста всего вышенаписанного, 
+//вроде все хорошо начиналось, но, в итоге получилась какая-то копипаста
 //только работать она будет на основе нового массива с продуктами
-//и выводить результаты в новый контейнер
+//и выводить результаты в другой контейнер
 class CartList {
     constructor(container = '.cart') {
         this.container = container;
