@@ -4,18 +4,45 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.7.2/js/all.js"
+        integrity="sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP" crossorigin="anonymous">
+    </script>
     <title>Интернет-магазин</title>
 </head>
 
 <body>
-    <header class="header">
-        <h2 class="header__title">КАТАЛОГ</h2>
-        <button class="btn-cart" type="button">Корзина</button>
-    </header>
-    <main>
-        <div class="products center"></div>
-    </main>
+    <div class="wrapper">
+        <header class="header">
+            <h2 class="header__title">КАТАЛОГ</h2>
+            <div class="cart">
+                <form action="#" class="search-form">
+                    <input type="text" class="search-field" placeholder="Поиск по каталогу">
+                    <button class="search-btn" type="submit">
+                        <i class="fas fa-search"></i>
+                    </button>
+                </form>
+                <button class="btn-cart" type="button">Корзина</button>
+                <div class="cart-block invisible"></div>
+            </div>
+            <!--<button class="btn-cart" type="button">Корзина</button>
+            <div class="cart-block invisible"></div>-->
+        </header>
+        <main>
+            <div class="products center"></div>
+            <form action="#" class="feedback-form ">
+                <input type="text" class="feedback-input" placeholder="Ваше имя" data-type="name">
+                <input type="email" class="feedback-input" placeholder="E-mail" data-type="email">
+                <input type="tel" class="feedback-input" placeholder="Номер телефона" data-type="phone">
+                <input type="text" class="feedback-input" placeholder="Ваше сообщение" data-type="message">
+                <button type="submit" class="feedback-button">Отправить сообщение</button>
+            </form>
+        </main>
+    </div>
+    <footer class="footer">
+
+    </footer>
     <script src="./js/main.js"></script>
+    <!--<script src="./js/regExp.js"></script>-->
 </body>
 
 </html>

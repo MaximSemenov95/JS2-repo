@@ -8,16 +8,47 @@
 
 body {
   font-family: 'Lato', sans-serif;
+  height: 100vh;
 }
 
 main {
-  padding-top: 80px;
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
 }
 
 button,
+button:hover,
 button:active,
 button:focus {
   outline: none;
+}
+
+input,
+input:hover,
+input:active,
+input:focus {
+  outline: none;
+}
+
+.wrapper {
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
 }
 
 .center {
@@ -26,7 +57,6 @@ button:focus {
 }
 
 .header {
-  height: 75px;
   background: #241f70;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -39,6 +69,9 @@ button:focus {
           align-items: center;
   padding-left: 50px;
   padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 80px;
   /*border-radius: 0px 0px 10px 10px */
 }
 
@@ -47,7 +80,7 @@ button:focus {
   font-size: 20px;
 }
 
-.btn-cart {
+.addToCart-btn {
   border: none;
   border-radius: 4px;
   background-color: #fff;
@@ -100,21 +133,134 @@ button:focus {
 
 .product-btn:hover {
   background-color: #241f70;
-  color: white;
+  color: #fff;
 }
 
 .btn-cart {
+  padding-top: 10px;
+  padding-bottom: 10px;
   padding-left: 15px;
   padding-right: 15px;
   font-size: 16px;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+  border-radius: 5px;
+  border: #fff solid 1px;
 }
 
 .btn-cart:hover {
   background-color: #241f70;
-  color: white;
-  -webkit-box-shadow: inset 0 0 4px 3px #d0d0d0a6;
-          box-shadow: inset 0 0 4px 3px #d0d0d0a6;
+  color: #fff;
+}
+
+.search-form {
+  position: relative;
+}
+
+.search-field {
+  width: 260px;
+  height: 100%;
+  padding-left: 10px;
+  border-radius: 5px;
+  border: none;
+}
+
+.search-field:active, .search-field:focus {
+  outline: none;
+}
+
+.search-btn {
+  background: transparent;
+  color: #241f70;
+  height: 100%;
+  border: none;
+  position: absolute;
+  top: 0;
+  right: 10px;
+}
+
+.cart {
+  width: 500px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.cart-block {
+  position: absolute;
+  width: 300px;
+  top: 90px;
+  right: 50px;
+  background: #fff;
+  border: #000 solid 1px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.cart-item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.invisible {
+  display: none;
+}
+
+.del-btn {
+  width: 40px;
+  height: 40px;
+}
+
+.feedback-form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 400px;
+  height: 300px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 10px;
+  border: #000 solid 1px;
+  border-radius: 10px;
+  -ms-flex-item-align: center;
+      align-self: center;
+}
+
+.feedback-input {
+  width: 100%;
+  height: 40px;
+  border: #000 solid 1px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.footer {
+  background: #241f70;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 /*# sourceMappingURL=style.css.map */
