@@ -1,0 +1,412 @@
+[
+    {
+        "time": "15 03 21, 08:05:16 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "15 03 21, 08:05:29 pm",
+        "product": "Геймпад",
+        "action": "change"
+    },
+    {
+        "time": "15 03 21, 08:05:29 pm",
+        "product": "Клавиатура",
+        "action": "change"
+    },
+    {
+        "time": "15 03 21, 08:05:30 pm",
+        "product": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "15 03 21, 08:05:30 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "15 03 21, 08:05:38 pm",
+        "product": "Клавиатура",
+        "action": "delete"
+    },
+    {
+        "time": "16 03 21, 11:22:09 pm",
+        "product": "Ноутбук",
+        "action": "delete"
+    },
+    {
+        "time": "16 03 21, 11:22:11 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:22:12 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:22:12 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:22:13 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:22:14 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:22:14 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:22:27 pm",
+        "product": "Ноутбук",
+        "action": "delete"
+    },
+    {
+        "time": "16 03 21, 11:27:17 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:27:18 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:27:19 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:27:20 pm",
+        "product": "Ноутбук",
+        "action": "delete"
+    },
+    {
+        "time": "16 03 21, 11:27:21 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:27:21 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:27:22 pm",
+        "product": "Ноутбук",
+        "action": "delete"
+    },
+    {
+        "time": "16 03 21, 11:28:09 pm",
+        "product": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:10 pm",
+        "product": "Мышка",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:10 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:11 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:13 pm",
+        "product": "Ноутбук",
+        "action": "delete"
+    },
+    {
+        "time": "16 03 21, 11:28:14 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:15 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:15 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:15 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:15 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:19 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:20 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:20 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:20 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:22 pm",
+        "product": "Клавиатура",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:22 pm",
+        "product": "Клавиатура",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:22 pm",
+        "product": "Клавиатура",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:22 pm",
+        "product": "Клавиатура",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:23 pm",
+        "product": "Клавиатура",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:23 pm",
+        "product": "Клавиатура",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:23 pm",
+        "product": "Клавиатура",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:23 pm",
+        "product": "Клавиатура",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:23 pm",
+        "product": "Клавиатура",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:23 pm",
+        "product": "Клавиатура",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:24 pm",
+        "product": "Клавиатура",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:24 pm",
+        "product": "Геймпад",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:24 pm",
+        "product": "Геймпад",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:25 pm",
+        "product": "Геймпад",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:25 pm",
+        "product": "Геймпад",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:25 pm",
+        "product": "Геймпад",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:25 pm",
+        "product": "Геймпад",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:25 pm",
+        "product": "Геймпад",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:25 pm",
+        "product": "Геймпад",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:26 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:26 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:27 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:27 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:28:28 pm",
+        "product": "Ноутбук",
+        "action": "delete"
+    },
+    {
+        "time": "16 03 21, 11:28:28 pm",
+        "product": "Мышка",
+        "action": "delete"
+    },
+    {
+        "time": "16 03 21, 11:28:29 pm",
+        "product": "Геймпад",
+        "action": "delete"
+    },
+    {
+        "time": "16 03 21, 11:28:29 pm",
+        "product": "Клавиатура",
+        "action": "delete"
+    },
+    {
+        "time": "16 03 21, 11:28:34 pm",
+        "product": "Мышка",
+        "action": "delete"
+    },
+    {
+        "time": "16 03 21, 11:28:34 pm",
+        "product": "Ноутбук",
+        "action": "delete"
+    },
+    {
+        "time": "16 03 21, 11:28:34 pm",
+        "product": "Геймпад",
+        "action": "delete"
+    },
+    {
+        "time": "16 03 21, 11:28:35 pm",
+        "product": "Клавиатура",
+        "action": "delete"
+    },
+    {
+        "time": "16 03 21, 11:38:25 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:47:56 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:47:56 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:47:56 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:47:58 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:47:58 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:47:59 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:48:00 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:48:00 pm",
+        "product": "Ноутбук",
+        "action": "delete"
+    },
+    {
+        "time": "16 03 21, 11:48:01 pm",
+        "product": "Мышка",
+        "action": "delete"
+    },
+    {
+        "time": "16 03 21, 11:49:37 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:49:38 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:49:46 pm",
+        "product": "Мышка",
+        "action": "delete"
+    },
+    {
+        "time": "16 03 21, 11:49:49 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:49:52 pm",
+        "product": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "16 03 21, 11:49:54 pm",
+        "product": "Ноутбук",
+        "action": "delete"
+    }
+]
